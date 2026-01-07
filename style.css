@@ -374,6 +374,68 @@ footer {
   animation: fadeUp 0.6s ease forwards;
 }
 
+.contact-section {
+  padding: 50px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-intro {
+  margin: 10px 0 35px;
+  text-align: center;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #e1e1ff;
+  max-width: 600px;
+}
+
+.contact-card {
+  background: rgba(15, 12, 41, 0.9);
+  border-radius: 22px;
+  padding: 40px;
+  max-width: 520px;
+  width: 100%;
+  box-shadow: 0 0 40px rgba(0, 212, 255, 0.25);
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  padding: 18px 22px;
+  margin-bottom: 22px;
+  border-radius: 16px;
+  background: rgba(166, 75, 244, 0.12);
+  transition: 0.3s ease;
+}
+
+.contact-item:last-child {
+  margin-bottom: 0;
+}
+
+.contact-item:hover {
+  transform: translateY(-6px);
+  background: rgba(166, 75, 244, 0.2);
+}
+
+.contact-icon {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+
+.contact-text h4 {
+  font-size: 1rem;
+  margin-bottom: 5px;
+  color: #e5e5ff;
+}
+
+.contact-text a {
+  color: #00d4ff;
+  font-weight: 600;
+  word-break: break-word;
+}g
 
 @media (max-width: 900px) {
   .hero.split {
