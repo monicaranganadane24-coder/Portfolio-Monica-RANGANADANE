@@ -119,7 +119,7 @@ Ce que j’ai appris :
     desc: `
 Création et conception d’une base de données complète pour un jeu de simulation géopolitique, avec modélisation de l’architecture et gestion de l’intégrité des données.
 
-🔹 Ce que j’ai fait :
+Ce que j’ai fait :
 • Analyse des besoins de l’application
 • Modélisation des données (MCD / MLD – méthode Merise)
 • Conception de l’architecture relationnelle
@@ -127,13 +127,13 @@ Création et conception d’une base de données complète pour un jeu de simula
 • Rédaction et exécution de scripts SQL (CRUD, mises à jour)
 • Mise en place des contraintes d’intégrité et de cohérence
 
-🔹 Ce que j’ai appris :
+Ce que j’ai appris :
 • Concevoir une base de données structurée et évolutive
 • Traduire un besoin métier en modèle relationnel
 • Garantir l’intégrité et la cohérence des données
 • Optimiser l’organisation des données pour une application
 `,
-    github: "https://github.com/monicaranganadane24-coder/Base-de-Donn-es-MySQL-pour-Jeu-de-Simulation" 
+    github: "https://github.com/monicaranganadane24-coder/Base-de-Donn-es-MySQL-pour-Jeu-de-Simulation"
   }
 }
 
