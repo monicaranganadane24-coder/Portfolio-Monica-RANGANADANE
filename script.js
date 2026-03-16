@@ -3,7 +3,7 @@ const id = params.get("id")
 
 const projets = {
   film: {
-    titre: "Application web – Recherche de films",
+    titre: "Application web – Recherche de films (Noté : 18/20)",
     image: "films.png",
     desc: `
 Développement d’une application web permettant de rechercher des films via une API externe (OMDb).
@@ -48,7 +48,7 @@ Ce que j’ai appris :
   },
 
   yearbook: {
-    titre: "Yearbook Automatique",
+    titre: "Yearbook Automatique (Noté : 16.66/20)",
     image: "yearbook.png",
     desc: `
 Développement d’un générateur automatique de Yearbook PDF à partir d’un fichier CSV contenant les élèves.
@@ -70,7 +70,7 @@ Ce que j’ai appris :
   },
 
   site: {
-    titre: "Site HTML/CSS",
+    titre: "Site HTML/CSS (Noté : 16.5/20)",
     image: "association.png",
     desc: `
 Création d’un site vitrine complet en HTML/CSS, avec plusieurs pages, une navigation fluide,
